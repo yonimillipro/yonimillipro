@@ -11,7 +11,7 @@ I specialize in React, Next.js, TailwindCSS, API Integrations, and modern UI dev
 - 👨‍💻 All my projects: https://yonimilliportfolio.vercel.app
 - 🤝 Open to collaboration on React / Next.js projects
 - 💬 Ask me about React, TailwindCSS, API Integration
-- 📫 Reach me at: yonimillii@gmail.com
+- 📫 Reach me at: yonimillipro@gmail.com
 
 ---
 
