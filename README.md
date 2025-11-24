@@ -1,15 +1,11 @@
-# Hi, I'm Yoni Mill 👋  
+# Hi, I'm Yoni Milli 👋  
 A Front-End Developer passionate about crafting modern, responsive, and user-focused web interfaces.
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <!-- TYPING ANIMATION -->
 <p align="center">
   <img 
-    src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yoni+Mill+%F0%9F%91%8B%F0%9F%8F%BB;Front-End+Developer;React+%7C+Next.js+%7C+TailwindCSS;Creating+Modern+Web+Experiences" 
-    alt="Typing SVG" ](https://raw.githubusercontent.com/briantobias/briantobias/master/wave.gif)
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=900&color=9F7BFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yoni+Mill+%F0%9F%91%8B;Front-End+Developer;React+%7C+Next.js+%7C+TailwindCSS;Creating+Modern+Web+Experiences" 
+    alt="Typing SVG" 
   />
-</p>
 </p>
 
 <h3 align="center">Frontend Developer | React • Next.js • UI/UX • Responsive Web Design</h3>
@@ -34,6 +30,16 @@ I’m a Frontend Developer specializing in building fast, accessible, and visual
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,css,html" />
 </p>
+
+### **🎨 UI Component Libraries & Animations**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=materialui" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=radix-ui&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
+
 
 ### **Tools & Platforms**
 <p>
