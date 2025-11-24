@@ -33,13 +33,10 @@ I’m a Frontend Developer specializing in building fast, accessible, and visual
 
 ### **🎨 UI Component Libraries & Animations**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=materialui" />
-  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=radix-ui&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
-
 
 ### **Tools & Platforms**
 <p>
