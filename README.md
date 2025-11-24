@@ -6,8 +6,8 @@ A Front-End Developer passionate about crafting modern, responsive, and user-foc
   <!-- TYPING ANIMATION -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yoni+Mill+%F0%9F%91%8B%F0%9F%8F%BB;Front-End+Developer;React+%7C+Next.js+%7C+TailwindCSS;Creating+Modern+Web+Experiences" 
-    alt="Typing SVG" 
+    src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yoni+Mill+%F0%9F%91%8B%F0%9F%8F%BB;Front-End+Developer;React+%7C+Next.js+%7C+TailwindCSS;Creating+Modern+Web+Experiences" 
+    alt="Typing SVG" ](https://raw.githubusercontent.com/briantobias/briantobias/master/wave.gif)
   />
 </p>
 </p>
