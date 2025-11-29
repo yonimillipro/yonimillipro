@@ -3,7 +3,7 @@ A Front-End Developer passionate about crafting modern, responsive, and user-foc
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=900&color=9F7BFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yoni+Mill+%F0%9F%91%8B;Front-End+Developer;React+%7C+Next.js+%7C+TailwindCSS;Creating+Modern+Web+Experiences" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=900&color=006D5B&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yoni+Mill+%F0%9F%91%8B;Front-End+Developer;React+%7C+Next.js+%7C+TailwindCSS;Creating+Modern+Web+Experiences" 
     alt="Typing SVG" 
   />
 </p>
