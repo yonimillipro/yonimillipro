@@ -20,7 +20,7 @@ I’m a Frontend Developer specializing in building fast, accessible, and visual
 - 📱 Passionate about **responsive, mobile-first design**  
 - 🔥 Skilled with **API integrations, animations, and dynamic UI**  
 - 👨‍💻 Portfolio: **https://yonimilliportfolio.vercel.app**  
-- 📫 Email: **yonimillii@gmail.com**
+- 📫 Email: **yonimillipro@gmail.com**
 
 ---
 
