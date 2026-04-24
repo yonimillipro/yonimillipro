@@ -1,4 +1,4 @@
-# Hi, I'm Yoni Milli 👋  
+# Hi, I'm Yonathan Million 👋  
 A Front-End Developer passionate about crafting modern, responsive, and user-focused web interfaces.
 
 <p align="center">
