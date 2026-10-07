@@ -19,7 +19,7 @@ I’m a Frontend Developer specializing in building fast, accessible, and visual
 - ⚛️ Expert in **React, Next.js, TailwindCSS**  
 - 📱 Passionate about **responsive, mobile-first design**  
 - 🔥 Skilled with **API integrations, animations, and dynamic UI**  
-- 👨‍💻 Portfolio: **https://yonimilliportfolio.vercel.app**  
+- 👨‍💻 Portfolio: **https://yonimilliportfolio2026.vercel.app/**  
 - 📫 Email: **yonimillipro@gmail.com**
 
 ---
